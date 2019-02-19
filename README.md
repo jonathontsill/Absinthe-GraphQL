@@ -1,6 +1,6 @@
 # Jon's GraphQL Server
 
-This repository serves as a proof-of-concept of creating a GraphQL server using [Absinthe](https://github.com/absinthe-graphql) to handle GraphQL queries submitted via [Phoenix](https://github.com/phoenixframework/phoenix) in Elixir. Testing was done using [GraphiQL](https://github.com/graphql/graphiql).
+This repository serves as a proof-of-concept of creating a GraphQL server using [Absinthe](https://github.com/absinthe-graphql) to handle GraphQL queries submitted via [Phoenix](https://github.com/phoenixframework/phoenix) in [Elixir](https://github.com/elixir-lang/elixir). Testing was done using [GraphiQL](https://github.com/graphql/graphiql).
 
 ## References
 
