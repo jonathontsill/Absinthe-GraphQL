@@ -1,19 +1,7 @@
-# Community
+# Jon's GraphQL Server
 
-To start your Phoenix server:
+This repository serves as a proof-of-concept of creating a GraphQL server using Absinthe(https://github.com/absinthe-graphql) to handle GraphQL queries submitted via Phoenix(https://github.com/phoenixframework/phoenix) in Elixir. Testing was done using GraphiQL(https://github.com/graphql/graphiql).
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
-  * Start Phoenix endpoint with `mix phx.server`
+## References
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
-
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+The guide I followed to create my GraphQL server can be found here: `https://www.howtographql.com/graphql-elixir/0-introduction/`
